@@ -1,0 +1,5 @@
+{
+  "name": "Sistem PTSP Madrasah",
+  "description": "Sistem Pelayanan Terpadu Satu Pintu (PTSP) Madrasah dengan Landing Page dan Dashboard RBAC",
+  "requestFramePermissions": ["geolocation"]
+}
